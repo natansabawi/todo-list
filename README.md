@@ -7,7 +7,7 @@ A clean and simple command-line To-Do List application built with Python.
 - View all tasks
 - Mark tasks as completed
 - Delete tasks
-- Data is saved automatically
+- Data is automatically saved in `tasks.json`
 
 ## How to Run
 
